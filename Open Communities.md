@@ -48,7 +48,7 @@ What follows are three questions to evaluate your permissionless community:
 
     Note: this model treats each interaction equally. You may want to weight contributions by significance, i.e. one tweet is worth more than a like. This approach accounts for commitment.
 
-2. _What is the median time between member contributions?	_
+2. _What is the median time between member contributions?_
 
     A cohesive community begins with consistent engagement. An active community will have a lower median time between member contributions than an inactive community. This is a more consistent metric than monthly active users (MAUs) as MAUs do not standardize ‘active’, while time is a standard we can all agree upon.
 
