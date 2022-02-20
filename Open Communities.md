@@ -1,4 +1,4 @@
-#Decentralized Communities
+# Decentralized Communities
 
 _“Go to the people. Live with them. Learn from them. Love them.” — Lao Tzu_
 
@@ -10,7 +10,7 @@ The internet is designed to bypass physical limitations, allowing online communi
 
 An online community is a group of people united by a common topic. Unlike a religion, belief need not be shared and unlike a nation state, geography need not be common. The borders of an online community are purely digital, a thin strip of ones and zeroes that separate one community from the next. On Reddit these borders are forums, on Discord these borders are channels, and on Twitter these borders are threads. Membership is fluid and, unlike traditional communities, exit is always an option. However, this loose definition of membership is the number one killer of online communities. 
 
-##Three Ways Communities Die
+## Three Ways Communities Die
 
 _Death By Noise_
 
@@ -28,7 +28,7 @@ There are many bones within the graveyard of online communities: the internet re
 
 However, digital spaces have the tendency to dehumanize participants. Personalities are reduced to usernames and worth is reduced to likes, retweets, followers, etc — single numbers that are incremented on remote servers. While likes, followers, and karma are a good way to increase user growth and retention, we need different metrics to measure the community as a whole. User count will not suffice. As many groups have shown, the quantity of community members has nothing to do with the quality of the community. This makes sense when we shift our understanding of community from a single number to a set of interactions between members. The goal of every community should be to facilitate positive interactions between members in order to build a better understanding of ourselves and our common interests. 
 
-##Community Metrics
+## Community Metrics
 
 What follows are three questions to evaluate your permissionless community:
 
@@ -52,6 +52,6 @@ What follows are three questions to evaluate your permissionless community:
 
     Happy members are essential for a healthy community. Regular member polls can help quantify the quantitative nature of satisfaction. Try quick surveys to collect feedback. Post analysis is another option, but genuine inquiries often work better than an unconscious machine learning model. 
 
-##Uncharted Spaces
+## Uncharted Spaces
 
 Fiber optic networks span the world, transcending geography and creating common spaces we must learn to share. Bits and bytes are here to stay. But humanity does not end where computers begin. We are all capable of being better community members, of sharing the joy of life with fellow humans— connected by wires, radio waves, and our common endeavor into uncharted digital spaces. 
