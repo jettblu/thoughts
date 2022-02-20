@@ -1,6 +1,8 @@
-# Decentralized Communities
+# Open Communities
 
 _“Go to the people. Live with them. Learn from them. Love them.” — Lao Tzu_
+
+## The Open Internet
 
 For the first 40 years of the internet, the relationship between data, capital, and ownership has been managed by trusted third parties. Institutions like AOL, Google, and Bank of America have had full control over data flow, with the power to peel back privacy and censor transactions. However asymmetric cryptography has provided common people with the keys to a digital kingdom. Public-private key pairs have replaced permission with power, allowing individuals to reclaim ownership over their digital lives. To send money, buy art, or form communities, one no longer needs to cross the drawbridge of third party approval. The walled garden is crumbling and Web3 is bringing the fruit of digital interaction (and ownership) to everyone. 
 
