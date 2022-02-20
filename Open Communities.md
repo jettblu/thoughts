@@ -26,6 +26,8 @@ _Death by Dead_
 
 People join, but no one participates. Lack of engagement feeds further lack of engagement and pretty soon the community is dead. Silence has inertia, so attempts to resuscitate the community are likely to fail.
 
+***
+
 There are many bones within the graveyard of online communities: the internet reaper has no mercy. When we open digital borders and remove permissions, we also remove filters that defend against bad actors. But in the 21st century, we have the tools to defend the open online communities we love; we have the tools to connect. Behind every computer is a human, and within every human is the capacity to love and understand.
 
 However, digital spaces have the tendency to dehumanize participants. Personalities are reduced to usernames and worth is reduced to likes, retweets, followers, etc — single numbers that are incremented on remote servers. While likes, followers, and karma are a good way to increase user growth and retention, we need different metrics to measure the community as a whole. User count will not suffice. As many groups have shown, the quantity of community members has nothing to do with the quality of the community. This makes sense when we shift our understanding of community from a single number to a set of interactions between members. The goal of every community should be to facilitate positive interactions between members in order to build a better understanding of ourselves and our common interests. 
