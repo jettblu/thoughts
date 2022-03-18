@@ -54,7 +54,7 @@ What follows are three questions to evaluate your permissionless community:
 
 3. _How satisfied is the community?_
 
-    Happy members are essential for a healthy community. Regular member polls can help quantify the quantitative nature of satisfaction. Try quick surveys to collect feedback. Post analysis is another option, but genuine inquiries often work better than an unconscious machine learning model. 
+    Happy members are essential for a healthy community. Regular member polls can help quantify the qualitative nature of satisfaction. Try quick surveys to collect feedback. Post analysis is another option, but genuine inquiries often work better than an unconscious machine learning model. 
 
 ## Uncharted Spaces
 
